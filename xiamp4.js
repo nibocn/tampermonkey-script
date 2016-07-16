@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         xiamp4
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    http://nibo.me
+// @version      0.1.1
 // @description  迅播影院显示、打印下载地址
 // @author       NiBo
 // @match        http://www.xiamp4.com/*
